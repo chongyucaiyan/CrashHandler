@@ -1,0 +1,2 @@
+# CrashHandler
+Android crash handler.
