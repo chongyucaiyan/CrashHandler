@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CrashHandler</string>
+    <string name="crash_tips">很抱歉，程序出现异常，即将退出</string>
+
+    <string name="main_make_a_crash">Make a crash</string>
+    <string name="main_permission_granted_tips">Permission granted~</string>
+    <string name="main_permission_denied_tips">Permission denied!</string>
 </resources>
